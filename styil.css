@@ -11,10 +11,6 @@ body {
     background-color: #E5E5E5;
 }
 
-/* .form {
-    color: #333333;
-} */
-
 .dropdown {
     display: flex;
     justify-content: space-between;
